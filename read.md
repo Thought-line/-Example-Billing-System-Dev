@@ -5,6 +5,7 @@
 **Example Billing System Dev** is a billing management application designed to simplify billing operations, invoice generation, and transaction tracking. It aims to reduce manual work, improve billing accuracy, and organize customer and billing information in one place.
 
 ## 🎯 Objectives
+## 🎯 Objectives
 
 - Simplify the billing process.
 - Maintain customer and product information.
