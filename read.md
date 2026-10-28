@@ -11,9 +11,9 @@
 - Generate accurate bills and invoices.
 - Track billing records and payment status.
 - Reduce manual calculations and data-entry errors.
-
+- 
 ## ✨ Features
-
+- **Customer Management:** Store and manage customer details.
 - **Customer Management:** Store and manage customer details.
 - **Product Management:** Maintain product names, prices, and quantities.
 - **Billing and Invoicing:** Generate bills based on selected products and quantities.
